@@ -4,31 +4,31 @@
       "VIDEO": "https://user-images.githubusercontent.com/26894501/167376165-7f383960-83a6-40b4-baf9-976315e59395.mp4"
     },
     "MASTER_STRING": {
-      "MASTER_STRING": "https://www.remove.bg/upload"
+      "MASTER_STRING": "https://www.unscreen.com/upload"
     },
     "STRING_ONE": {
       "STRING_ONE": "navbar navbar-expand-lg navbar-light fixed-top d-none-mobile-app"
     },
     "STRING_TWO": {
-      "STRING_TWO": "upper pb-4 pt-2 py-md-5"
+      "STRING_TWO": "subnav-placeholder"
     },
     "STRING_THREE": {
-      "STRING_THREE": "lower py-5 text-center"
+      "STRING_THREE": "d-none-mobile-app"
     },
     "STRING_FOUR": {
       "STRING_FOUR": "alert alert-warning small mt-2"
     },
     "STRING_FIVE": {
-      "STRING_FIVE": "https://en.savefrom.net/137/"
+      "STRING_FIVE": "subnav-placeholder"
     },
     "STRING_SIX": {
-      "STRING_SIX": ""
+      "STRING_SIX": "py-3"
     },
     "STRING_SEVEN": {
-      "STRING_SEVEN": ""
+      "STRING_SEVEN": "small"
     },
     "STRING_EIGHT": {
-      "STRING_EIGHT": ""
+      "STRING_EIGHT": "mt-3"
     },
     "STRING_NINE": {
       "STRING_NINE": ""
